@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello Github 👋 I'm ali yasin  I'm a backend developer I've been dealing with software since about 2019 I've been working as a developer for about 2 years
 
 <!--
 **aliyasinGKTRK/aliyasinGKTRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
